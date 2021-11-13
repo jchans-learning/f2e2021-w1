@@ -33,42 +33,27 @@ function Nav() {
         <div className="menu-block">
           <div className="menu-list">
             <div className="menu-title">訂製你的專屬旅程</div>
+
+            {/* TODO: 要寫成一個選單的 Component */}
             <div className="menu-items">
               <div className="menu-item-text">縣市</div>
               <div className="icon-arrow">
                 <img className="" src={dropdownArrow} alt="arrow icon" />
               </div>
             </div>
-            {/*             
-            <div className="dropdown">
-              <button
-                onClick="myFunction()"
-                className="menu-item-text menu-items dropbtn"
-              >
-                Dropdown
-                <div className="">
-                  <img
-                    className="icon-arrow"
-                    src={dropdownArrow}
-                    alt="arrow icon"
-                  />
-                </div>
-              </button>
-              <div id="myDropdown" className="dropdown-content">
-                <a href="">請點選縣市</a>
-                <a href="#home">Home</a>
-                <a href="#about">About</a>
-                <a href="#contact">Contact</a>
-              </div>
-            </div>
-             */}
-            <div className="menu-items menu-dropdown">
+
+            {/* TODO: 可能可以跟「縣市」用同一個 Component */}
+            <div className="menu-items">
               類別
               <div className="icon-arrow">
                 <img className="" src={dropdownArrow} alt="arrow icon" />
               </div>
             </div>
-            <div className="menu-items menu-input-keyword">輸入關鍵字...</div>
+
+            {/* TODO: 要研究「搜尋」怎麼做，做成一個 Component */}
+            <div className="menu-items menu-input-keyword">
+              <span>輸入關鍵字...</span>
+            </div>
             <div className="menu-items menu-search-button">
               <img
                 className="icon-search"
