@@ -37,7 +37,7 @@ body {
   border-radius: 50%;
   position: absolute;
 
-  z-index: 0;
+  z-index: -1;
 
   /* transform: translate(-480px, -150px); */
   transform: translate(-480px, -150px);
@@ -69,7 +69,7 @@ body {
 .index-saly {
   /* margin: 100px; */
   position: fixed;
-  z-index: 1;
+  /* z-index: 1; */
   transform: translate(calc(44vw - 432px), calc(50vh - 432px));
 }
 
