@@ -11,7 +11,6 @@ function App() {
       <ResultBody />
       <Footer />
     </div>
-    // TBD
   );
 }
 
