@@ -137,7 +137,24 @@ body {
   font-size: 20px;
   line-height: 125%;
 
+  box-shadow: 0px 2px 8px rgba(40, 41, 61, 0.08),
+    0px 20px 32px rgba(96, 97, 112, 0.24);
+
   /* z-index: 1; */
+}
+
+.menu-input-keyword {
+  justify-content: start;
+
+  color: #798aa0;
+  font-style: normal;
+  font-weight: normal;
+
+  background-color: #f2f4f6;
+}
+
+.menu-input-keyword > span {
+  margin-left: 1.5rem;
 }
 
 .menu-search-button {
