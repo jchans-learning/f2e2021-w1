@@ -12,6 +12,7 @@ function Nav() {
     <div>
       <div className="index-container">
         <div className="title-and-saly">
+          {/* Image Saly1 */}
           <div className="index-saly">
             <img src={saly1} alt="Saly" />
           </div>
