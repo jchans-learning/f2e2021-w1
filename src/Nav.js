@@ -20,7 +20,6 @@ function Nav() {
               src={letsGo}
               alt="Let's Go"
             />
-            <br />
             <img
               className="index-title-words-bottom"
               src={indexTaiwan}
