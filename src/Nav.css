@@ -223,7 +223,7 @@ body {
 
 @media screen and (max-width: 1400px) {
   .index-container {
-    overflow: unset;
+    overflow: auto;
     flex-wrap: wrap;
   }
   .title-and-saly {
