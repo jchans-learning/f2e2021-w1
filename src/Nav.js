@@ -12,11 +12,8 @@ function Nav() {
     <div>
       <div className="index-container">
         <div className="title-and-saly">
-          {/* Image Saly1 */}
-          <div className="index-saly">
-            <img src={saly1} alt="Saly" />
-          </div>
           <div className="index-circle-bg"></div>
+
           <div className="index-title-card">
             <img
               className="index-title-words-top"
@@ -29,6 +26,10 @@ function Nav() {
               src={indexTaiwan}
               alt="Taiwan"
             />
+          </div>
+          {/* Image Saly1 */}
+          <div className="index-saly">
+            <img className="index-saly-img" src={saly1} alt="Saly" />
           </div>
         </div>
         <div className="menu-block">
