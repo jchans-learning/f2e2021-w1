@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/f2e2021-v1/static/css/main.5c00f19a.chunk.css",
+    "main.js": "/f2e2021-v1/static/js/main.6fc16af1.chunk.js",
+    "main.js.map": "/f2e2021-v1/static/js/main.6fc16af1.chunk.js.map",
+    "runtime-main.js": "/f2e2021-v1/static/js/runtime-main.fa0b5a98.js",
+    "runtime-main.js.map": "/f2e2021-v1/static/js/runtime-main.fa0b5a98.js.map",
+    "static/js/2.284b95fe.chunk.js": "/f2e2021-v1/static/js/2.284b95fe.chunk.js",
+    "static/js/2.284b95fe.chunk.js.map": "/f2e2021-v1/static/js/2.284b95fe.chunk.js.map",
+    "static/js/3.583913d3.chunk.js": "/f2e2021-v1/static/js/3.583913d3.chunk.js",
+    "static/js/3.583913d3.chunk.js.map": "/f2e2021-v1/static/js/3.583913d3.chunk.js.map",
+    "index.html": "/f2e2021-v1/index.html",
+    "static/css/main.5c00f19a.chunk.css.map": "/f2e2021-v1/static/css/main.5c00f19a.chunk.css.map",
+    "static/js/2.284b95fe.chunk.js.LICENSE.txt": "/f2e2021-v1/static/js/2.284b95fe.chunk.js.LICENSE.txt",
+    "static/media/Saly-1.6f4684bd.png": "/f2e2021-v1/static/media/Saly-1.6f4684bd.png",
+    "static/media/dropdown-arrow.8bd5ffd0.svg": "/f2e2021-v1/static/media/dropdown-arrow.8bd5ffd0.svg",
+    "static/media/index_taiwan.aa9ffe60.svg": "/f2e2021-v1/static/media/index_taiwan.aa9ffe60.svg",
+    "static/media/lets_go.b978051e.svg": "/f2e2021-v1/static/media/lets_go.b978051e.svg",
+    "static/media/magnifying-glass-solid.d84aa702.svg": "/f2e2021-v1/static/media/magnifying-glass-solid.d84aa702.svg",
+    "static/media/Nav.css": "/f2e2021-v1/static/media/unsplash_78A265wPiO4.8922af9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0b5a98.js",
+    "static/js/2.284b95fe.chunk.js",
+    "static/css/main.5c00f19a.chunk.css",
+    "static/js/main.6fc16af1.chunk.js"
+  ]
+}
