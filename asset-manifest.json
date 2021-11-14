@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/f2e2021-w1/static/css/main.09dd74c1.chunk.css",
+    "main.css": "/f2e2021-w1/static/css/main.2372aec3.chunk.css",
     "main.js": "/f2e2021-w1/static/js/main.adfd17d7.chunk.js",
     "main.js.map": "/f2e2021-w1/static/js/main.adfd17d7.chunk.js.map",
     "runtime-main.js": "/f2e2021-w1/static/js/runtime-main.d7eac759.js",
@@ -10,7 +10,7 @@
     "static/js/3.583913d3.chunk.js": "/f2e2021-w1/static/js/3.583913d3.chunk.js",
     "static/js/3.583913d3.chunk.js.map": "/f2e2021-w1/static/js/3.583913d3.chunk.js.map",
     "index.html": "/f2e2021-w1/index.html",
-    "static/css/main.09dd74c1.chunk.css.map": "/f2e2021-w1/static/css/main.09dd74c1.chunk.css.map",
+    "static/css/main.2372aec3.chunk.css.map": "/f2e2021-w1/static/css/main.2372aec3.chunk.css.map",
     "static/js/2.284b95fe.chunk.js.LICENSE.txt": "/f2e2021-w1/static/js/2.284b95fe.chunk.js.LICENSE.txt",
     "static/media/Saly-1.6f4684bd.png": "/f2e2021-w1/static/media/Saly-1.6f4684bd.png",
     "static/media/dropdown-arrow.8bd5ffd0.svg": "/f2e2021-w1/static/media/dropdown-arrow.8bd5ffd0.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.d7eac759.js",
     "static/js/2.284b95fe.chunk.js",
-    "static/css/main.09dd74c1.chunk.css",
+    "static/css/main.2372aec3.chunk.css",
     "static/js/main.adfd17d7.chunk.js"
   ]
 }
