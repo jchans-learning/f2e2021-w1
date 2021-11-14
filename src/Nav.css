@@ -222,11 +222,15 @@ body {
 }
 
 @media screen and (max-width: 1400px) {
-  .index-container {
+  body {
     overflow-x: hidden;
-    overflow-y: unset;
+  }
+
+  .index-container {
+    overflow: unset;
     flex-wrap: wrap;
   }
+
   .title-and-saly {
     /* height: 100vh; */
     /* position: absolute; */
