@@ -37,7 +37,7 @@ function Nav() {
 
             {/* TODO: 要寫成一個選單的 Component */}
             <div className="menu-items">
-              <div className="menu-item-text">縣市</div>
+              <span className="menu-item-text">縣市</span>
               <div className="icon-arrow">
                 <img className="" src={dropdownArrow} alt="arrow icon" />
               </div>
@@ -45,7 +45,7 @@ function Nav() {
 
             {/* TODO: 可能可以跟「縣市」用同一個 Component */}
             <div className="menu-items">
-              類別
+              <span className="menu-item-text">類別</span>
               <div className="icon-arrow">
                 <img className="" src={dropdownArrow} alt="arrow icon" />
               </div>
